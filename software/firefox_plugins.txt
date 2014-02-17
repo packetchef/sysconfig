@@ -1,0 +1,20 @@
+ShowIP
+<add-ons>
+
+
+TamperData
+<add-ons>
+
+
+HTTPS Everywhere
+https://www.eff.org/https-everywhere
+
+
+FoxyProxy
+<add-ons>
+
+
+Live HTTP Headers
+<add-ons>
+
+
