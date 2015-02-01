@@ -27,3 +27,5 @@ cd() {
     echo -e "   \033[1;30m"`pwd`"\033[0m"
 }
 
+export HISTTIMEFORMAT="%F %T "
+
